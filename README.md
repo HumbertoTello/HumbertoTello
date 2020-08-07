@@ -11,7 +11,7 @@ Currently learning Web Programming
  <br/> :computer: &nbsp; My skills: HTML, CSS, JavaScript & Node.js | Coming soon: React
  <br/> :pencil2: &nbsp; Courses: Bootcamp LaunchBase & UX Unicórnio
  <br/> 💬  &nbsp; About me: Love reading, sitcoms and learning
- <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/humbertogytello/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HumbertoTello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HumbertoTello/)](https://www.linkedin.com/in/HumbertoTello/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-betoelo2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betoelo2@gmail.com)](mailto:betoelo2@gmail.com)
 
