@@ -8,10 +8,10 @@ Currently learning Web Programming
 <br /> FullStack Developer :computer:
 
  :rocket:  &nbsp; Working at **Frezze** 🐧
- <br/> :computer: &nbsp; My skills: HTML, CSS, JavaScript & Node.js | Coming soon: React
- <br/> :pencil2: &nbsp; Courses: Bootcamp LaunchBase & UX Unicórnio
+ <br/> :computer: &nbsp; My skills: HTML, CSS, JavaScript, Python, SQL and UX/UI Design.
+ <br/> :pencil2: &nbsp; Courses: Bootcamp LaunchBase, Python Impressionador & UX Unicórnio
  <br/> 💬  &nbsp; About me: Love reading, sitcoms and learning
- <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-HumbertoTello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HumbertoTello/)](https://www.linkedin.com/in/HumbertoTello/) 
+ <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-HumbertoTello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humbertogytello/)](https://www.linkedin.com/in/humbertogytello/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-betoelo2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betoelo2@gmail.com)](mailto:betoelo2@gmail.com)
 
