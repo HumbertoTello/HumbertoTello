@@ -4,12 +4,12 @@
 # My name is Humberto Tello
 
 ## Hello world 👋
-Currently learning Web Programming 
+Currently learning: Adobe Premiere Pro, Digital Marketing, AI and Web Programming
 <br /> FullStack Developer :computer:
 
  :rocket:  &nbsp; Working at **Frezze** 🐧
  <br/> :computer: &nbsp; My skills: HTML, CSS, JavaScript, Python, SQL and UX/UI Design.
- <br/> :pencil2: &nbsp; Courses: Bootcamp LaunchBase, Python Impressionador & UX Unicórnio
+ <br/> :pencil2: &nbsp; Courses Done: Bootcamp LaunchBase, Python Impressionador & UX Unicórnio
  <br/> 💬  &nbsp; About me: Love reading, sitcoms and learning
  <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-HumbertoTello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humbertogytello/)](https://www.linkedin.com/in/humbertogytello/) 
 | 
