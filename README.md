@@ -1,13 +1,13 @@
 <img width="auto" src="https://raw.githubusercontent.com/HumbertoTello/HumbertoTello/master/2.png">
 
 
-# Humberto Tello
+# My name is Humberto Tello
 
 ## Hello world 👋
 Currently learning Web Programming 
 <br /> FullStack Developer :computer:
 
- :rocket:  &nbsp; Working at **Kosmos**
+ :rocket:  &nbsp; Working at **Frezze** 🐧
  <br/> :computer: &nbsp; My skills: HTML, CSS, JavaScript & Node.js | Coming soon: React
  <br/> :pencil2: &nbsp; Courses: Bootcamp LaunchBase & UX Unicórnio
  <br/> 💬  &nbsp; About me: Love reading, sitcoms and learning
