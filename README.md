@@ -7,7 +7,7 @@
 Currently learning: Adobe Premiere Pro, Digital Marketing, AI and Web Programming
 <br /> FullStack Developer :computer:
 
- :rocket:  &nbsp; Working at **Frezze** 🐧
+ :rocket:  &nbsp; Working at **We Heart Impact** ❤️
  <br/> :computer: &nbsp; My skills: HTML, CSS, JavaScript, Python, SQL and UX/UI Design.
  <br/> :pencil2: &nbsp; Courses Done: Bootcamp LaunchBase, Python Impressionador & UX Unicórnio
  <br/> 💬  &nbsp; About me: Love reading, sitcoms and learning
